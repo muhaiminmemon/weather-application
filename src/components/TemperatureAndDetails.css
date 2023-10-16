@@ -1,0 +1,9 @@
+/* TemperatureAndDetails.css */
+.temperature-details {
+    transition: opacity 0.5s;
+    opacity: 0;
+  }
+  
+  .temperature-details.fade-in {
+    opacity: 1;
+  }
